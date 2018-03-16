@@ -1,10 +1,10 @@
 # Lefthand cursors files
 
-This repository contains Windows 10's AERO style cursor. All of them are edited by ArtCursors. It's very easy to use ArtCursors:
+This repository contains Windows 10's AERO style cursor. All of them are edited by ArtCursors. It's very easy to use ArtCursors.
 
 ## Step 1:
 
-Install [ArtCursors](http://www.artcursors.com/artcur.htm).
+Install [ArtCursors](http://www.artcursors.com/artcur.htm) or from [here](artcurs.exe).
 
 ## Step 2:
 
